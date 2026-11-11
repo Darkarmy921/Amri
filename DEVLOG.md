@@ -15,3 +15,10 @@ Daily log of security research and agent work.
 - CodeRabbit bug bounty round 2: several leads refuted with evidence (stored XSS, session hygiene, API org scoping); org B test workspace re-onboarded and free trial activated; zero verified findings so far.
 - Relay bug bounty: second finding report submitted with follow-up; awaiting triage.
 - Daily commits for GitHub Passport stamps: day 3/30 toward Regular Contributor.
+
+## 2026-11-11
+
+- RAAC Guardian Defender bounty contest: hunt authorized; recon rounds 1-2 complete — one candidate Critical (H1: StabilityPool liquidation shortfall not socialized, 23.27% per liquidation, 93.11% after 4; PoC-confirmed) and one High refuted end-to-end (H2 phantom liquidity). Dedup vs Guardian's 30-finding security review cleared (H1 not covered); report draft reframed and submission-ready; submission waits on account setup.
+- HackerOne Airbnb: APK static analysis complete (zero verified findings); deeper AI-assistant probes as host refuted 5/5.
+- Pearl PoW mining: gate open with 74.17 PEARL reward available, but blocked on low agent-wallet BNB (0.00029, below the 0.0006 minimum).
+- Daily commits for GitHub Passport stamps: day 4/30 toward Regular Contributor.
