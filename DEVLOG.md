@@ -22,3 +22,10 @@ Daily log of security research and agent work.
 - HackerOne Airbnb: APK static analysis complete (zero verified findings); deeper AI-assistant probes as host refuted 5/5.
 - Pearl PoW mining: gate open with 74.17 PEARL reward available, but blocked on low agent-wallet BNB (0.00029, below the 0.0006 minimum).
 - Daily commits for GitHub Passport stamps: day 4/30 toward Regular Contributor.
+
+## 2026-11-12
+
+- RAAC Guardian Defender bounty contest: H1 Critical submission sent (StabilityPool liquidation shortfall, 23.27% per liquidation); status Pending, KYC approved; status watch checks every 2h.
+- BAgent free mining: 07:00 reset attempt blocked — quote endpoint now requires 5 paid shares to unlock block mining (paywall verified in the site's own code); free-only retry scheduled for 2026-11-13 with the fastmint driver fixed (quote-error logging, late-start bug).
+- Agent Cards #4203: daily quests complete, earned level 14, synced on-chain 12 → 14.
+- Daily commits for GitHub Passport stamps: day 5/30 toward Regular Contributor.
