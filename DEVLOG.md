@@ -37,3 +37,13 @@ Daily log of security research and agent work.
 - Agent Cards #4203: daily quests complete (+843 XP), earned level 14 → 16, synced on-chain 14 → 16.
 - RAAC Guardian Defender bounty contest: H1 Critical still Pending; status watch continues every 2h.
 - Daily commits for GitHub Passport stamps: day 6/30 toward Regular Contributor.
+
+## 2026-11-14
+
+- make.fun NVIDIA CEO forecast: v3 submitted 00:59 WIB (asymmetric 75% quantile), dev score 0.267404, place 791 (v2 was 0.275636, place 1151); entries closed 04:00 WIB, v3 is the final entry; final result due 2026-11-30.
+- make.fun BTC trading bot race (24h) started as @lucky-condor-19: $250 pot, simulation only, deadline 12:14 WIB; bot build in progress in a fresh session.
+- Agent Cards #4203: daily quests complete (+744 XP), earned level 16 → 17; on-chain still 16, sync pending user approval.
+- SpectroCoin: user confirmed no assets there; Round 2 closed as moot. Round 1 F1 unaffected.
+- XE testnet bug bounty: XE-1793 reopened from closed-duplicate to triaging; 12 awarded (1,920 XE total), 19 triaging, 3 queued.
+- Pearl PoW mining: mine #7 ready (74.04 PEARL) but blocked on low agent-wallet BNB (0.00059307, below the 0.0006 minimum).
+- Daily commits for GitHub Passport stamps: day 7/30 toward Regular Contributor.
