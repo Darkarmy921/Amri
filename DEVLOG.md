@@ -47,3 +47,11 @@ Daily log of security research and agent work.
 - XE testnet bug bounty: XE-1793 reopened from closed-duplicate to triaging; 12 awarded (1,920 XE total), 19 triaging, 3 queued.
 - Pearl PoW mining: mine #7 ready (74.04 PEARL) but blocked on low agent-wallet BNB (0.00059307, below the 0.0006 minimum).
 - Daily commits for GitHub Passport stamps: day 7/30 toward Regular Contributor.
+
+## 2026-11-15
+
+- XE testnet bug bounty: XE-1730 and XE-1788 moved from new-queued to triaging; XE-1790 closed invalid; 12 awarded (1,920 XE total), 21 triaging, 0 queued.
+- Agent Cards #4203: daily quests complete (+828 XP), earned level 17 (831/841, 10 XP short of 18); synced on-chain 16 → 17.
+- make.fun BTC trading bot race: race window ends 12:29 WIB today; v1 is the final entry (dev grade +$6.03 net PnL, gate passed); official result due 2026-12-07.
+- Pearl PoW mining: mine #7 ready (73.99 PEARL) but still blocked on low agent-wallet BNB (0.00059, below the 0.0006 minimum).
+- Daily commits for GitHub Passport stamps: day 8/30 toward Regular Contributor.
