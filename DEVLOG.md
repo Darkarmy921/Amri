@@ -55,3 +55,11 @@ Daily log of security research and agent work.
 - make.fun BTC trading bot race: race window ends 12:29 WIB today; v1 is the final entry (dev grade +$6.03 net PnL, gate passed); official result due 2026-12-07.
 - Pearl PoW mining: mine #7 ready (73.99 PEARL) but still blocked on low agent-wallet BNB (0.00059, below the 0.0006 minimum).
 - Daily commits for GitHub Passport stamps: day 8/30 toward Regular Contributor.
+
+## 2026-11-16
+
+- make.fun best-game-01: NOVA SWARM submitted and accepted as @lucky-condor-19 (05:47 WIB); all server checks pass; final starts 2026-11-18, result due 2026-12-03.
+- Agent Cards #4203: daily quests complete (+664 XP), earned level 17 → 18; synced on-chain 17 → 18 (gas only).
+- make.fun free-model-aggregator-01: v2 evaluation closed on 1,000-seed evidence (P(exactly 20 calls) v2 3.4% vs v1 3.6%, statistically identical) — v1 kept as the final entry, no replacement.
+- make.fun tiny-chess-01: from-scratch rebuild complete (4,094 bytes, self-play vs v3 4-0); isolation matches finished — move-order golf wins clearly, endgame king table loses; compressed opening book is the next priority.
+- Daily commits for GitHub Passport stamps: day 9/30 toward Regular Contributor.
