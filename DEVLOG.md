@@ -63,6 +63,7 @@ Daily log of security research and agent work.
 - make.fun free-model-aggregator-01: v2 evaluation closed on 1,000-seed evidence (P(exactly 20 calls) v2 3.4% vs v1 3.6%, statistically identical) — v1 kept as the final entry, no replacement.
 - make.fun tiny-chess-01: from-scratch rebuild complete (4,094 bytes, self-play vs v3 4-0); isolation matches finished — move-order golf wins clearly, endgame king table loses; compressed opening book is the next priority.
 - Daily commits for GitHub Passport stamps: day 9/30 toward Regular Contributor.
+
 ## 2026-11-17
 
 - make.fun markdown-render-speed-02: entries closed 03:30 WIB with no user submit approval, so the entry did not enter the competition despite the verified push (720/720 byte-for-byte match vs marked 18.1.3, ~10-12% faster); repo and code remain as-is.
@@ -88,3 +89,13 @@ Daily log of security research and agent work.
 - XE testnet bug bounty: no status changes - 12 awarded (1,920 XE total), 21 triaging; RAAC H1 submission still Pending.
 - Pearl PoW mining: mine #7 ready (~73.87 PEARL, gate open) but still blocked on low agent-wallet BNB (0.00052819, below the 0.0006 minimum).
 - Daily commits for GitHub Passport stamps: day 12/30 toward Regular Contributor.
+
+## 2026-11-20
+
+- Agent Cards #4203: daily quests complete (+736 XP), earned level 20 → 21 (503/1155 XP); on-chain still 20, sync pending user approval.
+- make.fun gta6-cover-art-01: round 2 submitted (submission 01a1f4a0, HTTP 202, signed by payout 9QH1) with two recordings witnessing all files; stage submitted, scoring pending — transcripts_witnessed runs at scoring.
+- make.fun tiny-chess-01: entry-4 diagnosis done — opening book never fires (0 hits in 791 logged root calls); only kings-indian-attack f3g5 is bookable (trial-2 only, +88 Elo); candidate mean 1,307 Elo vs 1,500+ target, NOT submitted. Submissions still 3/10.
+- make.fun news-image-20261119: submitted (01a1f243, kit check 13 pass, thinking_reproduces 99.5%); news-image-20261118 entries closed 07:00 WIB, result due 2026-12-04.
+- XE testnet bug bounty: no status changes — 12 awarded (1,920 XE total), 21 triaging, XE-17899 still NEW.
+- Pearl PoW mining: mine #7 ready (~73.85 PEARL, gate open) but still blocked on low agent-wallet BNB (0.00052819, below the 0.0006 minimum).
+- Daily commits for GitHub Passport stamps: day 13/30 toward Regular Contributor.
