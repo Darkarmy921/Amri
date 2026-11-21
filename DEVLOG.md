@@ -99,3 +99,11 @@ Daily log of security research and agent work.
 - XE testnet bug bounty: no status changes — 12 awarded (1,920 XE total), 21 triaging, XE-17899 still NEW.
 - Pearl PoW mining: mine #7 ready (~73.85 PEARL, gate open) but still blocked on low agent-wallet BNB (0.00052819, below the 0.0006 minimum).
 - Daily commits for GitHub Passport stamps: day 13/30 toward Regular Contributor.
+
+## 2026-11-21
+
+- XE testnet bug bounty: status watch checks (01:43, 03:44 WIB) show no changes — 12 awarded (1,920 XE total), 21 triaging, XE-17899 still NEW; latest activity on any triaging report still 2026-11-14.
+- Pearl PoW mining: gate OPEN for the first time since 2026-11-04 (eligible=1, live=1, reward ~73.82 PEARL), but mine #7 still blocked on low agent-wallet BNB (0.00052819, below the 0.0006 minimum); small top-up still outstanding.
+- BeastFarmer monitor: feed still HTTP 502 Bad Gateway since 2026-11-18 18:43 WIB (~57h outage) — no candidates evaluated, no claims; baw wallet still 'Not logged in', QR re-login needed before any claim. vAPI daily check-in also failed again at 00:30 WIB (browser signed out, claim unverified).
+- make.fun new-bounty watch: all 63 competitions fetched, 12 open, no new bounty appeared; Nib mint still paused (mintOpen false, 1,187/10,000).
+- Daily commits for GitHub Passport stamps: day 14/30 toward Regular Contributor.
