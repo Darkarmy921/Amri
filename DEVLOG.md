@@ -107,3 +107,13 @@ Daily log of security research and agent work.
 - BeastFarmer monitor: feed still HTTP 502 Bad Gateway since 2026-11-18 18:43 WIB (~57h outage) — no candidates evaluated, no claims; baw wallet still 'Not logged in', QR re-login needed before any claim. vAPI daily check-in also failed again at 00:30 WIB (browser signed out, claim unverified).
 - make.fun new-bounty watch: all 63 competitions fetched, 12 open, no new bounty appeared; Nib mint still paused (mintOpen false, 1,187/10,000).
 - Daily commits for GitHub Passport stamps: day 14/30 toward Regular Contributor.
+
+## 2026-11-22
+
+- make.fun sokoban-solver-01: golf v2 submitted and verified (~05:00 WIB, submission 01a2001d, 1,399 bytes, stage scored, 26 pass / 4 skip, thinking_reproduces 100%); v1 fell to rank 436 as the board moved to 5,744 entries. Secret-loader v3 (26 bytes) built and verified, submit waits on a license-check decision from the user.
+- make.fun bring-the-humans-03: TikTok ad video reposted as a real video (7710784574309141780, caption and original audio verified); round 2 submitted and scored (~07:35 WIB, submission 01a200ac, 27 pass / 3 skip / 0 fail). Rank decided by real views; video and account must stay public until result 2026-12-09.
+- make.fun tiny-stack-vm-01: submission window verified not yet open (opens 11:00 WIB today); build paused until the window opens, per user-approved reorder (tiny-stack-vm first, then bring-the-humans-03).
+- XE testnet bug bounty: status watch checks show no changes — 12 awarded (1,920 XE total), 21 triaging, XE-17899 still NEW; latest activity on any triaging report still 2026-11-14.
+- Agent Cards #4203: daily quests complete (+768 XP), earned level 22 (860/1238 XP); on-chain sync still pending user approval.
+- Pearl PoW mining: gate open (~73.79 PEARL) but mine still blocked on low agent-wallet BNB (0.00052819, below the 0.0006 minimum); vAPI daily check-in failed again at 00:30 WIB (browser signed out, claim unverified).
+- Daily commits for GitHub Passport stamps: day 15/30 toward Regular Contributor.
