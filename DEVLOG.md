@@ -117,3 +117,14 @@ Daily log of security research and agent work.
 - Agent Cards #4203: daily quests complete (+768 XP), earned level 22 (860/1238 XP); on-chain sync still pending user approval.
 - Pearl PoW mining: gate open (~73.79 PEARL) but mine still blocked on low agent-wallet BNB (0.00052819, below the 0.0006 minimum); vAPI daily check-in failed again at 00:30 WIB (browser signed out, claim unverified).
 - Daily commits for GitHub Passport stamps: day 15/30 toward Regular Contributor.
+
+## 2026-11-23
+
+- make.fun tiny-stack-vm-01: round 2 pushed and submitted 05:45 WIB (submission 01a2056f, commit 609c7327), stage SCORED (26 pass / 0 fail / 4 skip, thinking_reproduces 100%); rank not yet visible on the dev leaderboard (7,296 rows checked, board lag suspected).
+- make.fun sokoban-solver-01: round 5 (a) cancelled by the user — Top 10 is locked (52 entries at 26 bytes hold ranks 1–52), so a 27-byte entry at ~rank 89 pays $0; v2 (01a2001d, 1,399 bytes, rank 540) is the final entry. Entries close today 10:00 WIB, result due 2026-12-14.
+- make.fun focus shift: view-based tasks conceded unwinnable (clipper rank 1,082/2,169; bring-the-humans-03 rank 247/534) — focus is now skill/judge builds only: make-the-ai-judge-feel-curious ($50, closes 09:11 WIB today, only 4 submissions) and best-card-game ($50, closes 13:26 WIB today, 3,363 submissions), both FREE, target rank 1.
+- Agent Cards #4203: daily quests complete (+776 XP), earned level 22 → 23 (398/1324 XP); on-chain still 20, sync pending user approval (now 3 levels behind).
+- XE testnet bug bounty: status watch 01:41 WIB shows no changes — 12 awarded (1,920 XE total), 21 triaging, XE-17899 still NEW.
+- Pearl PoW mining: gate OPEN (reward ~73.72 PEARL, dailyRemaining ~19.66M PEARL) but mine still blocked on low agent-wallet BNB (0.00052819, below the 0.0006 minimum).
+- BeastFarmer monitor: feed still HTTP 502 Bad Gateway since 2026-11-18 18:43 WIB (~108h outage) — no candidates evaluated, no claims; baw wallet still 'Not logged in', QR re-login needed before any claim. vAPI daily check-in failed again at 00:30 WIB (browser signed out, claim unverified).
+- Daily commits for GitHub Passport stamps: day 16/30 toward Regular Contributor.
