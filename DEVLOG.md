@@ -138,3 +138,10 @@ Daily log of security research and agent work.
 - XE testnet bug bounty: status watch checks show no changes — 12 awarded (1,920 XE total), 21 triaging, XE-17899 still NEW; latest activity on any triaging report still 2026-11-14.
 - Pearl PoW mining: gate OPEN (~73.66 PEARL) but mine still blocked on low agent-wallet BNB (0.00052819, below the 0.0006 minimum); BeastFarmer feed still HTTP 502 since 2026-11-18; vAPI daily check-in failed again at 00:30 WIB (browser signed out, claim unverified).
 - Daily commits for GitHub Passport stamps: day 17/30 toward Regular Contributor.
+
+## 2026-11-25
+
+- Agent Cards #4203: daily quests complete, earned level 24 (+808 XP); Duel won by KO vs #562 ambilbonus.ai, Scout and Tinker done. On-chain sync still pending (earned 4 levels ahead of on-chain 20).
+- make.fun: 18 new free bounties prepped (6 at 08:32, 12 at 10:32) with build prompts and build chats; cooking-game $250 round 1 at 11:37 WIB; deysumbrella trio round 1 at ~12:04 WIB.
+- XE testnet bug bounty: all 56 reports unchanged (12 awarded 1,920 XE, 20 duplicate, 2 invalid, 21 triaging, 1 new). Status watch continues every 2h.
+- Daily commits for GitHub Passport stamps: day 18/30 toward Regular Contributor.
