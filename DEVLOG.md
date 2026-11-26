@@ -145,3 +145,12 @@ Daily log of security research and agent work.
 - make.fun: 18 new free bounties prepped (6 at 08:32, 12 at 10:32) with build prompts and build chats; cooking-game $250 round 1 at 11:37 WIB; deysumbrella trio round 1 at ~12:04 WIB.
 - XE testnet bug bounty: all 56 reports unchanged (12 awarded 1,920 XE, 20 duplicate, 2 invalid, 21 triaging, 1 new). Status watch continues every 2h.
 - Daily commits for GitHub Passport stamps: day 18/30 toward Regular Contributor.
+
+
+## 2026-11-26
+
+- Agent Cards #4203: daily quests complete (+816 XP), earned level 24 → 25 (79/1500 XP); Duel lost by KO round 3 vs #562 ambilbonus.ai, Scout and Tinker done. On-chain still 20, sync pending user approval (now 5 levels behind).
+- make.fun: 6 new free bounties prepped (batch 23: 4 one-liners at 04:37, batch 24: The Internet in One Word 0 + One Star, Five Stars for the Food at 06:42) with build prompts and build chats; news-image-20261126 opens 07:00 WIB today.
+- XE testnet bug bounty: all 56 reports unchanged (12 awarded 1,920 XE, 20 duplicate, 2 invalid, 21 triaging, 1 new). Status watch continues every 2h.
+- BeastFarmer monitor: feed still HTTP 502 since 2026-11-18; baw wallet re-logged in 2026-11-25 but Developer Mode is OFF, blocking contract calls. Nib mint still paused (mintOpen false, 1,187/10,000). vAPI daily check-in failed again at 00:30 WIB (browser signed out, claim unverified).
+- Daily commits for GitHub Passport stamps: day 19/30 toward Regular Contributor.
