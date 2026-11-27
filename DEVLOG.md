@@ -154,3 +154,11 @@ Daily log of security research and agent work.
 - XE testnet bug bounty: all 56 reports unchanged (12 awarded 1,920 XE, 20 duplicate, 2 invalid, 21 triaging, 1 new). Status watch continues every 2h.
 - BeastFarmer monitor: feed still HTTP 502 since 2026-11-18; baw wallet re-logged in 2026-11-25 but Developer Mode is OFF, blocking contract calls. Nib mint still paused (mintOpen false, 1,187/10,000). vAPI daily check-in failed again at 00:30 WIB (browser signed out, claim unverified).
 - Daily commits for GitHub Passport stamps: day 19/30 toward Regular Contributor.
+
+## 2026-11-27
+
+- Lumo Sains episode 1 v3 accepted by user and uploaded to YouTube (channel rebranded "Lumo Sains" @LumoSains) and TikTok @lumosains; daily video schedule set up (one episode per day, upload 19:00 WIB, anti-template and anti-block rules in calendar).
+- Lumo episode 2 "Gimana caranya kapal selam menyelam?" built, verified and delivered (40.53 s, Vanessa voice, cinematic style, lip-sync); fix round started after user feedback on the depth readout clipping and the dolphin silhouette.
+- Agent Cards #4203: daily quests complete (+840 XP), earned level 25 (919/1500 XP); Duel lost by KO round 5 vs #562 ambilbonus.ai. On-chain sync still pending user approval.
+- XE testnet bug bounty: all 56 reports unchanged (12 awarded 1,920 XE, 21 triaging, 1 new); status watch continues every 2h. Pearl mine #7 still blocked on low agent-wallet BNB (0.000528, below the 0.0006 minimum).
+- Daily commits for GitHub Passport stamps: day 20/30 toward Regular Contributor.
