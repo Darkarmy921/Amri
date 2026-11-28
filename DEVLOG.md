@@ -162,3 +162,11 @@ Daily log of security research and agent work.
 - Agent Cards #4203: daily quests complete (+840 XP), earned level 25 (919/1500 XP); Duel lost by KO round 5 vs #562 ambilbonus.ai. On-chain sync still pending user approval.
 - XE testnet bug bounty: all 56 reports unchanged (12 awarded 1,920 XE, 21 triaging, 1 new); status watch continues every 2h. Pearl mine #7 still blocked on low agent-wallet BNB (0.000528, below the 0.0006 minimum).
 - Daily commits for GitHub Passport stamps: day 20/30 toward Regular Contributor.
+
+## 2026-11-28
+
+- Lumo Sains episode 3 "Kenapa es batu mengapung?" built, verified and delivered (40.67 s, 3D, tempo gate pass; upload 29 Nov 19:00 WIB). Episode 2 "Gimana caranya kapal selam menyelam?" fix round done; upload tonight 28 Nov 19:00 WIB. Voice still Vanessa (user rejected its intonation; Gemini API key pending).
+- Agent Cards #4203: daily quests complete (+840 XP), earned level 26 (259/1591 XP); Duel WON by KO round 6 vs #562 ambilbonus.ai. On-chain sync done 20 → 26, verified (tx 0xd5485e389db62afae183791a05cbaf555744c9087a73df144c938adf51c15540, block 136132783). baw re-logged in via Binance app; Developer Mode enabled until 5 Dec 2026.
+- make.fun: DealHound (black-friday-deal-finder-01) R1 rank 1,750/3,276; turkey-run-game-01 build running; SKYRUNNER final round today 07:57 WIB; make-minecraft-01 is Freebuff-only, user steps pending.
+- XE testnet bug bounty: all 56 reports unchanged (12 awarded 1,920 XE, 21 triaging, 1 new); status watch continues every 2h. BeastFarmer feed still 502 since 18 Nov; Pearl mine still blocked on low agent-wallet BNB (0.000528, below the 0.0006 minimum). Nib mint still paused (mintOpen false, 1,187/10,000).
+- Daily commits for GitHub Passport stamps: day 21/30 toward Regular Contributor.
